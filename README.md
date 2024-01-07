@@ -8,21 +8,21 @@
 - [Examples of my work](#examples-of-my-work)
 
 ## About me
-👋 Hi, I’m @MarieAnnickJourdan.
-I’m interested in all testing aspects (functionnal, performance, automation...), visual management and continuous improvement.
-I really enjoy to share return of experiences, tips, and every useful knowledge about testing.
+👋 Hi, I’m Marie :-)  
+I’m interested in all testing aspects (functionnal, performance, automation...), visual management and continuous improvement.  
+💛 I really enjoy to share return of experiences, tips, and every useful knowledge about testing.
 
 ## CV
 👀 You can consult my prodessional exprience [here](https://www.linkedin.com/in/malefebvre/).
 
-## Skills
+## Skills ⚡
 
 __Test analysis & design__
   * tests conception
   * delivery planification
  
 __Manual testing__
-  * fbctionnal testing
+  * functionnal testing
   * API testing
 
 __Performance testing__
@@ -41,25 +41,18 @@ __Test documentation__
 __Heuristics__   
   * create heuristics customized to context and team
 
-## Tools
+## Tools 🔧
 
 __Bug reports__
   * Jira
   * Redmine
   * Flypray
  
-__API__
-  * Postman
-
-__Cross Browser testing__
-  * Lambdatest
-  * Browserstack
-
-__Automation__
-  * Cypress
-
- __Security__
-  * Able to use ZAP proxy from OWASP
+__Testing tools__
+  * API : Postman
+  * Cross Browser testing : Lambdatest, Browserstack
+  * Automation : Cypress
+  * Security : ZAP proxy from OWASP
 
 __Others__
   * XMind
@@ -68,7 +61,7 @@ __Others__
   * Miro
   * Canva
 
-## Courses
+## Courses 📓
   * ISTQB Certified Tester - Fondation Level
   * ISTQB Certified Tester - Advanced Level Test Manager
   * DevOps Foundation from DevOps Institute Certification
