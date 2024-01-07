@@ -16,8 +16,8 @@ I’m interested in all testing aspects (functionnal, performance, automation...
 
 ## Portfolio
    * Some examples of my work in my [PDF Portfolio](https://github.com/MarieAnnickJourdan/portfolio/blob/main/PortfolioTesting_MAJourdan.pdf)
-   * Checklist..
    * Test Cases ...
+   * Training "Formations de poche" all [there](https://github.com/MarieAnnickJourdan/portfolio/tree/main/Formations%20de%20poche)
 
 ## Skills
 
