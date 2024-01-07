@@ -13,7 +13,7 @@ I’m interested in all testing aspects (functionnal, performance, automation...
 💛 I really enjoy to share return of experiences, tips, and every useful knowledge about testing.
 
 ## CV
-👀 You can consult my prodessional exprience [here](https://www.linkedin.com/in/malefebvre/).
+👀 You can consult my professional experience [here](https://www.linkedin.com/in/malefebvre/).
 
 ## Skills ⚡
 
