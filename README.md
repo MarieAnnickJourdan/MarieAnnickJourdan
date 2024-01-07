@@ -2,9 +2,9 @@
 
 - [About me](#about-me)
 - [CV](#cv)
-- [Skills ⚡](#skills)
-- [Tools](#tools)
-- [Courses](#courses)
+- ⚡ [Skills](#skills)
+- 🔧[Tools](#tools)
+- 📓 [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
 
 ## About me
@@ -15,7 +15,7 @@ I’m interested in all testing aspects (functionnal, performance, automation...
 ## CV
 👀 You can consult my professional experience [here](https://www.linkedin.com/in/malefebvre/).
 
-## Skills ⚡
+## Skills
 
 __Test analysis & design__
   * tests conception
@@ -41,7 +41,7 @@ __Test documentation__
 __Heuristics__   
   * create heuristics customized to context and team
 
-## Tools 🔧
+## Tools
 
 __Bug reports__
   * Jira
@@ -61,7 +61,7 @@ __Others__
   * Miro
   * Canva
 
-## Courses 📓
+## Courses
   * ISTQB Certified Tester - Fondation Level
   * ISTQB Certified Tester - Advanced Level Test Manager
   * DevOps Foundation from DevOps Institute Certification
