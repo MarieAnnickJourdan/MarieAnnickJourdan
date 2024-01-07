@@ -10,6 +10,7 @@
 ## About me
 👋 Hi, I’m @MarieAnnickJourdan.
 I’m interested in all testing aspects (functionnal, performance, automation...), visual management and continuous improvement.
+I really enjoy to share return of experiences, tips, and every useful knowledge about testing.
 
 ## CV
 👀 You can consult my prodessional exprience [here](https://www.linkedin.com/in/malefebvre/).
@@ -62,6 +63,7 @@ __Automation__
 
 __Others__
   * XMind
+  * Confluence
   * Klaxoon
   * Miro
   * Canva
@@ -70,3 +72,8 @@ __Others__
   * ISTQB Certified Tester - Fondation Level
   * ISTQB Certified Tester - Advanced Level Test Manager
   * DevOps Foundation from DevOps Institute Certification
+
+ ## Examples of my work
+   * Checklist..
+   * Test Cases ...
+     
