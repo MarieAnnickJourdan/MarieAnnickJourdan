@@ -1,11 +1,10 @@
-# Portfolio
-
 - [About me](#about-me)
 - [CV](#cv)
+- 🐞 [Portfolio](#portfolio)
 - ⚡ [Skills](#skills)
 - 🔧[Tools](#tools)
 - 📓 [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+
 
 ## About me
 👋 Hi, I’m Marie :-)  
@@ -14,6 +13,11 @@ I’m interested in all testing aspects (functionnal, performance, automation...
 
 ## CV
 👀 You can consult my professional experience [here](https://www.linkedin.com/in/malefebvre/).
+
+## Portfolio
+   * Some examples of my work in my [PDF Portfolio](https://github.com/MarieAnnickJourdan/portfolio/blob/main/PortfolioTesting_MAJourdan.pdf)
+   * Checklist..
+   * Test Cases ...
 
 ## Skills
 
@@ -66,7 +70,5 @@ __Others__
   * ISTQB Certified Tester - Advanced Level Test Manager
   * DevOps Foundation from DevOps Institute Certification
 
- ## Examples of my work
-   * Checklist..
-   * Test Cases ...
+
      
