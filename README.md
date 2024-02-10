@@ -30,7 +30,7 @@ __Manual testing__
   * API testing
 
 __Performance testing__
-  * not as specialist but able to prepare a performance test : scenario, expected results
+  * not a specialist but able to prepare a performance test : scenario, expected results
   * able to install and use for a basic test Gatling, K6, Locust
  
 __Exploratory testing__
