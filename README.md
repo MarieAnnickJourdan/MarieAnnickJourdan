@@ -30,7 +30,7 @@ __Manual testing__
   * API testing
 
 __Performance testing__
-  * not a specialist but able to prepare a performance test : scenario, expected results
+  * able to prepare a performance test : scenario, expected results
   * able to install and use for a basic test Gatling, K6, Locust
  
 __Exploratory testing__
@@ -55,7 +55,7 @@ __Bug reports__
 __Testing tools__
   * API : Postman
   * Cross Browser testing : Lambdatest, Browserstack
-  * Automation : Cypress
+  * Automation : Cypress, Agilitest
   * Security : ZAP proxy from OWASP
 
 __Others__
@@ -68,6 +68,7 @@ __Others__
 ## Courses
   * ISTQB Certified Tester - Fondation Level
   * ISTQB Certified Tester - Advanced Level Test Manager
+  * ISTQB Certified Tester - Advanced Level Test Automation Engineering
   * DevOps Foundation from DevOps Institute Certification
 
 
