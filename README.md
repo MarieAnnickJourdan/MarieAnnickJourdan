@@ -53,7 +53,7 @@ __Bug reports__
   * Flypray
  
 __Testing tools__
-  * API : Postman
+  * API : Postman, Bruno
   * Cross Browser testing : Lambdatest, Browserstack
   * Automation : Cypress, Agilitest
   * Security : ZAP proxy from OWASP
